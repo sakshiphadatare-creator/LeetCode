@@ -3,15 +3,15 @@ class Solution(object):
         self.nums = nums
         self.target = target
         self.rtype = {}
-        for current_index, i in enumerate(nums):
-            #current_index = nums.index(i)
-            complement = target - i
+        for idx, val in enumerate(nums):
+            #idx = nums.index(val)
+            complement = target - val
         
             if complement in self.rtype:
-                return [self.rtype[complement], current_index]
+                return [self.rtype[complement], idx]
                 #nums.index(i) ,nums.index(complement)
             
-            self.rtype[i] = current_index
+            self.rtype[val] = idx
             #self.rtype[i] = nums.index(i)
 
 
