@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/sakshiphadatare-creator/LeetCode/tree/master/0584-find-customer-referee) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/sakshiphadatare-creator/LeetCode/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/sakshiphadatare-creator/LeetCode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
