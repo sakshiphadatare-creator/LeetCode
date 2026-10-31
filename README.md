@@ -1,8 +1,7 @@
 # LeetCode
 
 <!---LeetCode Topics Start-->
-# Topics
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
@@ -15,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/sakshiphadatare-creator/LeetCode/tree/master/0584-find-customer-referee) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sakshiphadatare-creator/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## Two Pointers
 |  |
 | ------- |
